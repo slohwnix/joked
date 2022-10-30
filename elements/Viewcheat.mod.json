@@ -1,0 +1,12 @@
+{
+  "_fv": 33,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F1",
+    "keyBindingName": "cheat open",
+    "keyBindingCategoryKey": "cheat",
+    "onKeyPressed": {
+      "name": "Cheattoopengui"
+    }
+  }
+}

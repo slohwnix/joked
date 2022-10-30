@@ -1,0 +1,60 @@
+{
+  "mod_elements": [
+    {
+      "name": "Fakecheat",
+      "type": "overlay",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fakecheat"
+    },
+    {
+      "name": "FakecheatAfficherLoverlayEnJeu",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fakecheat_afficher_loverlay_en_jeu",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Viewcheat",
+      "type": "keybind",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "viewcheat"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "key.fakecheatmod.viewcheat": "cheat open"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fakecheatmod",
+    "modName": "fakecheatmod",
+    "version": "1.0.0",
+    "author": "slohw, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "fr.slohwnix.fakecheatmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
