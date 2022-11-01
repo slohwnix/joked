@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="joked"
+version="0.0.1"
+displayName="joked"
+credits="create with mcreator"
+displayURL="https://mcreator.net"
+authors="slohw, MCreator"
+description='''
+Please do no distribuate the mod
+'''
+
+[[dependencies.joked]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

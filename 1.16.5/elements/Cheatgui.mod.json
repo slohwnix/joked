@@ -1,0 +1,127 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 86,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "autoactive",
+          "name": "autoactive",
+          "x": 157,
+          "y": 103
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "spipercheat",
+          "color": {
+            "value": -6750208,
+            "falpha": 0.0
+          },
+          "name": "spipercheat",
+          "x": 237,
+          "y": 145
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "close",
+          "onClick": {
+            "name": "Closecheat"
+          },
+          "width": 51,
+          "height": 20,
+          "name": "close",
+          "x": 245,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "name editor",
+          "onClick": {
+            "name": "Cheatnameit"
+          },
+          "width": 82,
+          "height": 20,
+          "name": "name editor",
+          "x": 5,
+          "y": 2
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "fly",
+          "width": 40,
+          "height": 20,
+          "name": "fly",
+          "x": 5,
+          "y": 23
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "x-ray",
+          "width": 51,
+          "height": 20,
+          "name": "x-ray",
+          "x": 5,
+          "y": 46
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "killaura",
+          "width": 67,
+          "height": 20,
+          "name": "killaura",
+          "x": 5,
+          "y": 67
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "aimbot",
+          "width": 56,
+          "height": 20,
+          "name": "aimbot",
+          "x": 6,
+          "y": 91
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "tp",
+          "width": 35,
+          "height": 20,
+          "name": "tp",
+          "x": 7,
+          "y": 116
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 1,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

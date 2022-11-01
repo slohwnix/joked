@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "joked:blocks/glissead",
+    "up": "joked:blocks/glissead",
+    "north": "joked:blocks/glissead",
+    "east": "joked:blocks/glissead",
+    "south": "joked:blocks/glissead",
+    "west": "joked:blocks/glissead",
+    "particle": "joked:blocks/glissead"
+  }
+}
